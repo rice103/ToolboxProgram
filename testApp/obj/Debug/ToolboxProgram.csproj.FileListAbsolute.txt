@@ -1,0 +1,25 @@
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\bin\Debug\ToolboxProgram.exe
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\bin\Debug\ToolboxProgram.pdb
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.TrayMinimizerForm.resources
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.Properties.Resources.resources
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.csproj.GenerateResource.Cache
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.exe
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.pdb
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.csprojResolveAssemblyReference.cache
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.exe
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.pdb
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\bin\Debug\ToolboxProgram.exe
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\bin\Debug\ToolboxProgram.pdb
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.csprojResolveAssemblyReference.cache
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.TrayMinimizerForm.resources
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.Properties.Resources.resources
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\ToolboxProgram.csproj.GenerateResource.Cache
+C:\Users\Rice Cipriani\Desktop\Toolbox program\testApp\bin\Debug\ToolboxProgram.exe
+C:\Users\Rice Cipriani\Desktop\Toolbox program\testApp\bin\Debug\ToolboxProgram.pdb
+C:\Users\Rice Cipriani\Desktop\Toolbox program\testApp\obj\Debug\ToolboxProgram.csprojAssemblyReference.cache
+C:\Users\Rice Cipriani\Desktop\Toolbox program\testApp\obj\Debug\ToolboxProgram.TrayMinimizerForm.resources
+C:\Users\Rice Cipriani\Desktop\Toolbox program\testApp\obj\Debug\ToolboxProgram.Properties.Resources.resources
+C:\Users\Rice Cipriani\Desktop\Toolbox program\testApp\obj\Debug\ToolboxProgram.csproj.GenerateResource.cache
+C:\Users\Rice Cipriani\Desktop\Toolbox program\testApp\obj\Debug\ToolboxProgram.csproj.CoreCompileInputs.cache
+C:\Users\Rice Cipriani\Desktop\Toolbox program\testApp\obj\Debug\ToolboxProgram.exe
+C:\Users\Rice Cipriani\Desktop\Toolbox program\testApp\obj\Debug\ToolboxProgram.pdb

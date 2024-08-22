@@ -1,0 +1,26 @@
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\bin\Release\ToolboxProgram.exe
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\bin\Release\ToolboxProgram.pdb
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.TrayMinimizerForm.resources
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.Properties.Resources.resources
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.csproj.GenerateResource.Cache
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.exe
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.pdb
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.csprojResolveAssemblyReference.cache
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.exe
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.pdb
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\bin\Release\ToolboxProgram.exe
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\bin\Release\ToolboxProgram.pdb
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.TrayMinimizerForm.resources
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.Properties.Resources.resources
+Z:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Release\ToolboxProgram.csproj.GenerateResource.Cache
+Z:\Telefoni e dispositivi\Server\Toolbox program\testApp\obj\Release\ToolboxProgram.exe
+Z:\Telefoni e dispositivi\Server\Toolbox program\testApp\obj\Release\ToolboxProgram.pdb
+Z:\Telefoni e dispositivi\Server\Toolbox program\testApp\bin\Release\ToolboxProgram.exe
+Z:\Telefoni e dispositivi\Server\Toolbox program\testApp\bin\Release\ToolboxProgram.pdb
+Z:\Telefoni e dispositivi\Server\Toolbox program\testApp\obj\Release\ToolboxProgram.csprojResolveAssemblyReference.cache
+Z:\Telefoni e dispositivi\Server\Toolbox program\testApp\obj\Release\ToolboxProgram.TrayMinimizerForm.resources
+Z:\Telefoni e dispositivi\Server\Toolbox program\testApp\obj\Release\ToolboxProgram.Properties.Resources.resources
+Z:\Telefoni e dispositivi\Server\Toolbox program\testApp\obj\Release\ToolboxProgram.csproj.GenerateResource.Cache
+Z:\Server\Toolbox program\testApp\obj\Release\ToolboxProgram.csprojAssemblyReference.cache
+Z:\Server\Toolbox program\testApp\obj\Release\ToolboxProgram.exe
+Z:\Server\Toolbox program\testApp\obj\Release\ToolboxProgram.pdb

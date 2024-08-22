@@ -1,0 +1,14 @@
+C:\Users\Rice Cipriani\Downloads\Minimize_2_System_Tray\testApp\bin\Debug\MinimizeToTray.exe
+C:\Users\Rice Cipriani\Downloads\Minimize_2_System_Tray\testApp\bin\Debug\MinimizeToTray.pdb
+C:\Users\Rice Cipriani\Downloads\Minimize_2_System_Tray\testApp\obj\Debug\MinimizeToTray.TrayMinimizerForm.resources
+C:\Users\Rice Cipriani\Downloads\Minimize_2_System_Tray\testApp\obj\Debug\MinimizeToTray.Properties.Resources.resources
+C:\Users\Rice Cipriani\Downloads\Minimize_2_System_Tray\testApp\obj\Debug\MinimizeToTray.csproj.GenerateResource.Cache
+C:\Users\Rice Cipriani\Downloads\Minimize_2_System_Tray\testApp\obj\Debug\MinimizeToTray.exe
+C:\Users\Rice Cipriani\Downloads\Minimize_2_System_Tray\testApp\obj\Debug\MinimizeToTray.pdb
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\MinimizeToTray.exe
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\MinimizeToTray.pdb
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\bin\Debug\MinimizeToTray.exe
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\bin\Debug\MinimizeToTray.pdb
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\MinimizeToTray.TrayMinimizerForm.resources
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\MinimizeToTray.Properties.Resources.resources
+F:\Telefoni e dispositivi\Schermettino touch\Toolbox program\testApp\obj\Debug\MinimizeToTray.csproj.GenerateResource.Cache
